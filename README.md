@@ -1,4 +1,5 @@
 Descrição do Projeto
+
 O desenvolvimento deste projeto teve como objetivo aplicar na prática os conceitos aprendidos no Módulo 01 da Trilha HTML da DIO.me. A proposta foi criar uma página simples, mas completa, utilizando todas as tags apresentadas nas aulas, além de pesquisar e experimentar novas tags sugeridas.
 
 Durante a construção da página, foram utilizados diferentes níveis de títulos (<h1> até <h6>) para organizar o conteúdo em seções hierárquicas. Os parágrafos (<p>) receberam destaques com <mark>, notas em <small>, além de estilos como <i>, <u> e <strong> para dar ênfase às informações. Também foram aplicados exemplos de fórmulas com <sub> e <sup>.
